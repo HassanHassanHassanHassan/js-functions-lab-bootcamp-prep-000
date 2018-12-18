@@ -5,4 +5,4 @@ function happyHolidaysTo(String)
 {return 'Happy holidays, you!' }
 
 function happyHolidayTo(holiday, name)
-{return 'Happy holidays, Independence Day, you!' }
+{return 'Happy Independence Day, you!' }
