@@ -1,1 +1,3 @@
-function
+function happyHolidays(String)
+
+{return happyHolidays
