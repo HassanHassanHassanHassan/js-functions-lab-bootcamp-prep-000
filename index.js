@@ -1,3 +1,2 @@
 function happyHolidays(String)
-
-{return happyHolidays
+{return "happyHolidays!"}
