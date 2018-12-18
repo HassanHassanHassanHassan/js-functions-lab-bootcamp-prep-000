@@ -6,3 +6,6 @@ function happyHolidaysTo(String)
 
 function happyHolidayTo(holiday, name)
 {return 'Happy Independence Day, you!' }
+
+function holidayCountdown(holiday, days)
+{return 'Its ${days} days until ${holiday}!'}
