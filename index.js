@@ -1,5 +1,5 @@
 function happyHolidays(String)
 {return "Happy holidays!"}
 
-function happyHolidaysto(name) 
+function happyHolidaysto(String) 
 {return 'Happy holidays, ${name}!' }
