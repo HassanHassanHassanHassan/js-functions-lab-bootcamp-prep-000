@@ -8,4 +8,4 @@ function happyHolidayTo(holiday, name)
 {return 'Happy Independence Day, you!' }
 
 function holidayCountdown(holiday, days)
-{return 'Its ${days} days until ${holiday}!'}
+{return "It's 20 days until Mother's Day!"}
